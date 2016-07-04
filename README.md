@@ -1,4 +1,4 @@
-# GreenLabs Aula #1 - iniciando nosso primeiro jogo
+# GreenLabs Aula #1 - Iniciando o primeiro jogo
 Esta é a aula #1 da Série GreenLabs/GreenfootBR/DFJUG. Nesta aula criaremos o projeto do primeiro cenário do nosso jogo e veremos os conceitos básicos sobre a plataforma Greenfoot.
 
 
