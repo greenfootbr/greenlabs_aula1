@@ -1,6 +1,8 @@
 # GreenLabs Aula #1 - Iniciando o primeiro jogo
 Esta é a aula #1 da Série GreenLabs/GreenfootBR/DFJUG. Nesta aula criaremos o projeto do primeiro cenário do nosso jogo e veremos os conceitos básicos sobre a plataforma Greenfoot.
 
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://www.youtube.com/watch?v=EIlq_H3M0MA)
 
 ## Conteúdo | Summary
 * Crição do cenário do primeiro jogo;
@@ -12,10 +14,16 @@ Esta é a aula #1 da Série GreenLabs/GreenfootBR/DFJUG. Nesta aula criaremos o 
 
 ## Equipe | Team
 
+** Edição, Produção e Arte
 * Daniel de Oliveira
 * Luciene Cavalcante
 * Aecio Junior
 * Jhonatan Morais - www.getjv.com.br
+
+** Testes e Qualidade
+* Cesar Junior
+* José Raimundo
+* Maicon Oliveira
 
 ## Para mais sobre a iniciativa GreenfootBR acesse:
 * O site da comunidade DFJUG [http://www.dfjug.org](http://www.dfjug.org)
